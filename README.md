@@ -42,3 +42,5 @@ A Unity-based physics interaction prototype where the player controls a cube, co
 * Timer system
 * Better visual effects
 * Sound effects
+
+## Demo video : https://youtu.be/sdRjs1pmTBw
